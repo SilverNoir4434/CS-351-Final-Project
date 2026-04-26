@@ -1,0 +1,9 @@
+h1 {
+    align-self: center;
+    padding-bottom: 4em;
+}
+
+.error {
+    color: red;
+    padding-top: 1.5em;
+}
